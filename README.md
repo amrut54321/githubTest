@@ -1,1 +1,1 @@
-### COVID-19 : Analysis of global fatality rate and confirmed cases
+### COVID-19 : Analysis of worldwide fatality rate and confirmed cases
